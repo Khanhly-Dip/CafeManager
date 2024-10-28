@@ -11,7 +11,7 @@ namespace BaiTapNhom
         public Form1()
         {
             InitializeComponent();
-            return View;
+            //return view();
         }
 
         private void Form1_Load(object sender, EventArgs e)
