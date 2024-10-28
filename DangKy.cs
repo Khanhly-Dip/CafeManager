@@ -27,6 +27,8 @@ namespace BaiTapNhom
         {
             Form1 comback = new Form1();
             comback.ShowDialog();
+            // this my chanbe
+            ///quen chưa luu
         }
 
         private void accept_dky_Click(object sender, EventArgs e)
